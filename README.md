@@ -4,7 +4,10 @@ Este repositório será utilizado para registros de materiais e atividades  rela
 
 ## 👨‍💻 Integrantes do Grupo
 
-- Escreva os nomes aqui
+- Gabriel Henrique Coetti
+- Hadassa Alves de Gouvea
+- João Pedro Barbosa
+- Lucas Rodrigues Florentino 
 
 ## ✅ Tarefas e Atividades
 
